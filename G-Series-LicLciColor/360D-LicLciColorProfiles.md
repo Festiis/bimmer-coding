@@ -11,38 +11,27 @@ This document contains color profiles for BMW's 360D-LicLci system, defining the
 - **LILAC**: 05
 
 ## Byte Positions
-- **BRONZE**:
-  - Byte Positions: 0, 1
+- **BRONZE**: 0, 1
 
-- **BRONZE-WHITE**:
-  - Byte Positions: 2, 3
+- **BRONZE-WHITE**: 2, 3
 
-- **ORANGE**:
-  - Byte Positions: 4, 5
+- **ORANGE**: 4, 5
 
-- **ORANGE-WHITE**:
-  - Byte Positions: 6, 7
+- **ORANGE-WHITE**: 6, 7
 
-- **WHITE**:
-  - Byte Positions: 8, 9
+- **WHITE**: 8, 9
 
-- **BLUE**:
-  - Byte Positions: 10, 11
+- **BLUE**: 10, 11
 
-- **BLUE-WHITE**:
-  - Byte Positions: 12, 13
+- **BLUE-WHITE**: 12, 13
 
-- **GREEN**:
-  - Byte Positions: 14, 15
+- **GREEN**: 14, 15
 
-- **GREEN-WHITE**:
-  - Byte Positions: 16, 17
+- **GREEN-WHITE**: 16, 17
 
-- **LILAC**:
-  - Byte Positions: 18, 19
+- **LILAC**: 18, 19
 
-- **LILAC-WHITE**:
-  - Byte Positions: 20, 21
+- **LILAC-WHITE**: 20, 21
 
 ## Custom Profiles
 - **BRONZE-WHITE => BRONZE-BLUE**: Red - Blue.
