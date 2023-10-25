@@ -22,7 +22,7 @@ This document contains color profiles for BMW's 360D-LicLci system, defining the
 
 - **ORANGE-WHITE**:
   - Byte Positions: 6, 7
-  - 
+    
 - **WHITE**:
   - Byte Positions: 8, 9
   - 
