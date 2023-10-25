@@ -22,10 +22,10 @@ This document contains color profiles for BMW's 360D-LicLci system, defining the
 
 - **ORANGE-WHITE**:
   - Byte Positions: 6, 7
-    
+
 - **WHITE**:
   - Byte Positions: 8, 9
-  - 
+
 - **BLUE**:
   - Byte Positions: 10, 11
 
@@ -48,7 +48,7 @@ This document contains color profiles for BMW's 360D-LicLci system, defining the
 - **BRONZE-WHITE => BRONZE-BLUE**: Red - Blue.
   - Byte Positions: 2 and 3.
   - Byte Values: 03 and 01.
-  - 
+
 - **BLUE-WHITE => BLUE-BRONZE**: Blue - Red.
   - Byte Positions: 12 and 13.
   - Byte Values: 01 and 03.
@@ -60,12 +60,12 @@ This document contains color profiles for BMW's 360D-LicLci system, defining the
 - **LILAC-WHITE => LILAC-GREEN**: Deeppink - Aqua.
   - Byte Positions: 20 and 21.
   - Byte Values: 05 and 04.
-    
+
 - **Custom Profiles String**:
   ```
   01, 01, 03, 01, 02, 02, 00, 02, 00, 00, 03, 03, 01, 03, 04, 04, 04, 05, 05, 05, 05, 04
   ```
-    
+
 ## Note
   - Customize your lighting colors by following 360A-LicLciColorLibrary.md.
 
