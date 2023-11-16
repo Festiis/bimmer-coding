@@ -9,7 +9,7 @@
 
 - **Automatic Speed Limit Assistant:**
   - Sets Speed Limits automatically
-  - Forwardlooking, Route planning, Speed adjust 
+  - Forwardlooking, Route planning, Automatic Speed Adjustments
 
 - **Traffic Light Assistant, Urban Cruise Control:**
   - Information about traffic lights, Consider Stop Signs
