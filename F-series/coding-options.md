@@ -2,6 +2,10 @@
 
 ### General Coding Options:
 
+- **Activate CarPlay:**
+  -  Activation of Apple CarPlay for NBT_EVO units
+  -  Fullscreen CarPlay
+
 - **Activate Enhanced Bluetooth:**
   - Stream audio via Bluetooth
   - Enable artwork
