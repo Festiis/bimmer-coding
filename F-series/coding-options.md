@@ -43,7 +43,7 @@
 ### Body Control Module:
 
 - Increase Angel Eyes Brightness to 100%
-- Turn on Brake Force Flashing with Hard Breaking
+- Turn on Brake Force Flashing with Hard Braking
 - Enable Door Handle LEDs when in Reverse
 - Auto Start/Stop OFF by default
 - Auto Start/Stop – Remember LAST Setting
