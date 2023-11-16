@@ -1,8 +1,7 @@
 ## G Series Coding Options
 
 ### Driving Assistant Pro Options:
-
-  Remove any Country Restrictions
+Remove any Country Restrictions
 
 - **Automatic Lane Change Assistant:**
   - Enables the car to automatically change lanes
