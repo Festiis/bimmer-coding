@@ -100,6 +100,7 @@
 
 ### Driver Information:
 
+- Enable Digital Speed in Cluster via BC button
 - Show Digital Speed in MPH in Cluster
 - Enable GPS-Sync for Clock
 - Enable Entertainment Menu in HUD
