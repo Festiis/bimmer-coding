@@ -22,7 +22,7 @@ Remove any Country Restrictions
 
 ### Comfort and Convenience:
 
-  - Enable Sensitive Headlights Improved Dynamics
+  - Enable Sensitive Headlights for Improved Dynamics
   - Disable Seat Belt Warning
   - Disable Active Sound Design
   - Auto Steering Wheel heat
