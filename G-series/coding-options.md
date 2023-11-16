@@ -41,7 +41,7 @@ Remove any Country Restrictions
   - Disable Horn Honk when locking doors with engine running
   - Disable front windows rollup stopping when door opened
 
-### Head Unit - Infotainment and Navigation:
+### Head Unit - Infotainment:
 
   - Enable Video In Motion
   - Change Startup Animation to ///M, ALPINA, BMWi, etc.
