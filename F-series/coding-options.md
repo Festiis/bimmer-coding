@@ -66,7 +66,7 @@
 
 ### Head Unit - Infotainment and Navigation:
 
-- Enabel Video in Motion, Video Files from USB, all Video Codecs
+- Enable Video in Motion, Video Files from USB, all Video Codecs
 - Enable Sports Displays, configure Sport Mode
 - Enable ///M Laptimer
 - Change i-Drive Animation to ///M Logo, BMW, RollsRoyce, MINI
