@@ -68,6 +68,7 @@
 
 - Enabel Video in Motion, Video Files from USB, all Video Codecs
 - Enable Sports Displays, configure Sport Mode
+- Enable ///M Laptimer
 - Change i-Drive Animation to ///M Logo, BMW, RollsRoyce, MINI
 - Add Temperature & PSI to tire monitor screen
 - Change units displayed to be ft lb and hp
