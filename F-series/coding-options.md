@@ -6,6 +6,9 @@
   -  Activation of Apple CarPlay for NBT_EVO units
   -  Fullscreen CarPlay
 
+- **Update Navigation Maps:**
+  -  Update maps for any type of head unit
+
 - **Activate Enhanced Bluetooth:**
   - Stream audio via Bluetooth
   - Enable artwork
