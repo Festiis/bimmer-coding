@@ -13,7 +13,7 @@
   - Standalone option with paddle shifters (though not required)
   - Faster and claimed smoother shifts
   - Enables Sport+, Launch Control
-  - 
+    
 - **Activate Enhanced Bluetooth:**
   - Stream audio via Bluetooth
   - Enable artwork
