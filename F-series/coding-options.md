@@ -8,7 +8,12 @@
 
 - **Update Navigation Maps:**
   -  Update maps for any type of head unit
-
+  -  
+- **Activate Sport Automatic Transmission (SAT):**
+  - Standalone option with paddle shifters (though not required)
+  - Faster and claimed smoother shifts
+  - Enables Sport+, Launch Control
+  - 
 - **Activate Enhanced Bluetooth:**
   - Stream audio via Bluetooth
   - Enable artwork
@@ -25,11 +30,6 @@
 - **Activate iDrive Office:**
   - Access the Office Menu in the main iDrive menu
   - Contacts, Email reading, Text Message Receiving, etc.
-
-- **Activate Sport Automatic Transmission (SAT):**
-  - Standalone option with paddle shifters (though not required)
-  - Faster and claimed smoother shifts
-  - Enables Sport+, Launch Control
 
 ### Active Sound Design:
 
