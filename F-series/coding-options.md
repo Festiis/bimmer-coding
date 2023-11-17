@@ -8,7 +8,7 @@
 
 - **Update Navigation Maps:**
   -  Update maps for any type of head unit
-  -  
+    
 - **Activate Sport Automatic Transmission (SAT):**
   - Standalone option with paddle shifters (though not required)
   - Faster and claimed smoother shifts
